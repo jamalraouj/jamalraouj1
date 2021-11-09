@@ -1,1 +1,45 @@
-hello
+git --version // We use it to determine the git version
+
+git version 2.20 // result
+
+git config --global user.name "Jamal raouj"
+                  // We use it to give the username for git
+git config --global user.email "jamalrwj@gmail.com" 
+                 // We use it to give the email for git
+
+git config --global init.defaultBranch main 
+                //To change from master to main
+
+git config --get user.name 
+                // show username
+git config --get user.email 
+                // show email
+
+ls ~/.ssh/id_rsa.pub 
+                // Check if SSH
+
+ls: cannot access '/home/votre-nom-utilisateur/.ssh/id_rsa.pub':
+                
+                //This message appears when ssh is not present 
+
+ssh-keygen -C jamalrwj@gmail.com 
+                //fetch key for ssh
+cat ~/.ssh/id_rsa.pub
+                // for show key
+
+git clone 
+             // git clone used to  take the repository from gitHub to local 
+
+git remote -v //In order to check if  repository is online
+
+              //Create a new file in git_test folder called README.md 
+git status   
+             // We use it to check if there has been a change in files
+git add . 
+            // To add changes or new files ,like README.md
+git commit -m "add README.md" 
+            //Description of changes
+git push origin main 
+            //push up the project
+
+

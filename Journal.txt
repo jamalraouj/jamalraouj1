@@ -1,0 +1,7 @@
+________8 /11________
+Le premier jour, nous avons appris à nous connaître
+on as appris ce que on vas apprendre la première année 
+________9 /11________
+j'ai appris à créer un projet sur gitHub via git à l'aide d'un ensemble de commandes.
+   Cela ma permet également de contrôler le projet,
+ d'ajouter des modifications et de le lier à gitHub.

@@ -5,3 +5,11 @@ ________9 /11________
 j'ai appris à créer un projet sur gitHub via git à l'aide d'un ensemble de commandes.
    Cela ma permet également de contrôler le projet,
  d'ajouter des modifications et de le lier à gitHub.
+_______10/11________
+Aujourd'hui, nous avons travaillé sur des quizz
+ dans les commandes Git et du code C.
+Nous nous sommes également familiarisés avec le langage de C ,
+ ses fondateurs et la date de sa création, 
+et nous savions que des systèmes sont programmés 
+en l'utilisant, de nombreuses machines, 
+la plupart des moteurs électriques et une base de données.

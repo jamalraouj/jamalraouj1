@@ -13,3 +13,15 @@ Nous nous sommes également familiarisés avec le langage de C ,
 et nous savions que des systèmes sont programmés 
 en l'utilisant, de nombreuses machines, 
 la plupart des moteurs électriques et une base de données.
+
+______11/11_________
+Ce jour-là, nous avons relevé des défis dans la langue C 
+et créé des projets tels que l'addition de deux nombres 
+et la multiplication, ainsi que la conversion de mètres en miles,
+ le calcul de la circonférence d'un cercle, etc.
+Ensuite, nous avons créé un live code dans l'équipe pour 
+que chacun programme directement son code.
+De cette classe, je me suis retrouvé à apprendre quelque chose 
+dans le langage C en créant des projets
+C'est un bon moyen d'apprendre et aussi de vivre du disco et 
+un excellent moyen de programmer devant une équipe.

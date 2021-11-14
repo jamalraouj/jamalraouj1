@@ -86,10 +86,21 @@ In the C programming language:
     return 0;
 
 }
-     //and loop for
+     // loops for , while and do while :
+for(variable value ; the condition ; It is possible to make a change to the variable ){
+      //code
+}
 
+while(condition ){
+//code
+}
 
-  
+do {//The code inside do is executed the first time
+}
+    //After that, the while condition is checked if the condition is 
+      allowed, do is executed again to the end
+while(condition);
+
   
 
 

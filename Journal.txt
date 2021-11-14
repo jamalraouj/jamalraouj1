@@ -31,3 +31,7 @@ J'ai fait des projets comme donner le nombre d'années et choisir n'importe quel
 quart de travail que vous voulez, comme le jour ou l'heure, etc.
 Et d'autres projets tels que la conversion de miles en mètres et la
  conversion de Fahrenheit en Celsius
+________13/11_______weakend
+________14/11_______
+Bonjour, ce week-end certains de mes amis et moi avons pratiqué 
+LOOP en C, y compris for, while, do while

@@ -1,3 +1,4 @@
+_______FIRST WEEK________
 git --version // We use it to determine the git version
 
 git version 2.20 // result
@@ -41,5 +42,64 @@ git commit -m "add README.md"
             //Description of changes
 git push origin main 
             //push up the project
+
+===============================
+In the C programming language:
+  Data type in C __ These variables we use to enter data, control it and change it in the
+                   code according to the result we are looking for:
+
+   	int take 2 bytes : //we use this variable to enter an integer :
+		this variable in scanf("%d",&num);
+	char take 1 byte : // we use this variable to entre a character :
+		this variable in scanf("%c",&name_char);
+	char[n] take n bytes : //we use this variable to entre text :
+		this variable in scanf("%s",&name_char);
+	float take 4 bytes : //we use this variable to enter a numbere real:
+		this variable in scanf("%f",&num);
+
+	double take 8 bytes : //we use this variable to enter a numbere real Such as float type but double has more memoiry :
+		this variable in scanf("%lf",&num);
+ 
+  printf("information var %d ",name_var);
+  scanf("type data with % sush as %d or %c etc.." ,& name_var);
+
+  if/else condition :
+      we use if statement for check the condition :
+      If the condition is met, the code will be executed :
+      If it does not come true :
+      Code is executed inside else :
+      // for example :
+     		 #include <stdio.h>
+     		 int main (){
+     		   printf("Entre one number :");
+     		   int i ;
+     		    scanf("%d",&i);
+     		   if(i <=50){
+     			 if(i>=0){
+     			   printf("this number 0<= %d <=50",i);
+ 			  }
+   
+		 }else{
+                       printf("this number is not 0<= number <=50");
+            }
+
+    return 0;
+
+}
+     //and loop for
+
+
+  
+  
+
+
+  
+	
+
+	
+
+
+
+
 
 

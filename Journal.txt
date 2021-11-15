@@ -26,12 +26,22 @@ dans le langage C en créant des projets
 C'est un bon moyen d'apprendre et aussi de vivre du disco et 
 un excellent moyen de programmer devant une équipe.
 _______12/11______
+
 Aujourd'hui, j'ai créé un ensemble de défis et j'ai appris d'eux,
 J'ai fait des projets comme donner le nombre d'années et choisir n'importe quel 
 quart de travail que vous voulez, comme le jour ou l'heure, etc.
 Et d'autres projets tels que la conversion de miles en mètres et la
  conversion de Fahrenheit en Celsius
+
 ________13/11_______weakend
 ________14/11_______
 Bonjour, ce week-end certains de mes amis et moi avons pratiqué 
 LOOP en C, y compris for, while, do while
+
+________15/11_______
+1) Ajourd'hui on a vu un entretien qui concerne les membres des stuffs , 
+        à l'aprésence d'un membre du simplon ,
+        je me suis entrainee sur les boucles en C et on a terminer les quiz restants .
+2) J'ai apprend comment appliquer les instructions de conditions  
+        (if/if else/switch case) et les boucles(while/do while/ for) 
+3)  ceci reste très important pour l'impliquer dans un programme et dans le projets .

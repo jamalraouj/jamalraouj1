@@ -1,0 +1,30 @@
+	
+               //bool result = (condition) ? true : false ; syntaxe
+               //If the condition is met, the result =  true 
+               // If the condition is not met, the result is  false
+               //if/else/if else /switch case /while /do while / for 
+               // 
+
+int main(){
+	char result;
+	int marks = 20 ;
+	result = (marks >33) ? 'p' : 'f' ;
+
+	printf("%c",result);
+	
+	return 0;
+}
+++++++++++++++++++++++++++++
+ 
+   
+ int main(){
+    int i = 10;
+    printf("%d",i++);//output 10
+     //The value of the variable is printed before adding the number 1
+    printf("%d",++i);//output 11
+     //The value of the variable is printed after adding the number 1
+
+
+return 0;
+
+}

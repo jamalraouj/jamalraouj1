@@ -1,4 +1,4 @@
-	
+_________15/11________
                //bool result = (condition) ? true : false ; syntaxe
                //If the condition is met, the result =  true 
                // If the condition is not met, the result is  false
@@ -8,13 +8,13 @@
 int main(){
 	char result;
 	int marks = 20 ;
-	result = (marks >33) ? 'p' : 'f' ;
+	result = (marks >33) ? 'p' : 'f' ; //bitwise
 
 	printf("%c",result);
 	
 	return 0;
 }
-++++++++++++++++++++++++++++
+__________________________________________________________________
  
    
  int main(){
@@ -28,3 +28,15 @@ int main(){
 return 0;
 
 }
+
+
+
+_________________________________________________________________________
+
+______16/11____________
+
+big o notation in algo...
++
+     int a =10;
+      printf("%d",~a);
+                 //input -11 why??

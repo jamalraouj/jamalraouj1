@@ -45,3 +45,13 @@ ________15/11_______
 2) J'ai apprend comment appliquer les instructions de conditions  
         (if/if else/switch case) et les boucles(while/do while/ for) 
 3)  ceci reste très important pour l'impliquer dans un programme et dans le projets .
+
+________16/11________
+
+1) Aujourd'hui nous avons travaillé sur le live code et résolu quelques exercices 
+et le soir des amis nous ont présenté des algorithmes.
+
+2) Aujourd'hui j'ai bénéficié de quelques informations sur les algorithmes, les algorithmes 
+servent à suivre les étapes du code avant de démarrer le projet, et aussi nous aident à faciliter l'écriture du code,
+  /// Je vais apprendre les algorithmes...
+3) Les algorithmes nous aideront à corriger certaines erreurs dans le code et à écrire un code rapide et propre

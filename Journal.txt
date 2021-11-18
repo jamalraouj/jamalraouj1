@@ -55,3 +55,20 @@ et le soir des amis nous ont présenté des algorithmes.
 servent à suivre les étapes du code avant de démarrer le projet, et aussi nous aident à faciliter l'écriture du code,
   /// Je vais apprendre les algorithmes...
 3) Les algorithmes nous aideront à corriger certaines erreurs dans le code et à écrire un code rapide et propre
+
+
+________17/11__________
+
+1) aujourd'hui, nous avons parlé de Comment résoudre certains défis 
+grâce à des algorithmes et comprendre comment résoudre un problème, etc.
+
+2)Aujourd'hui, vous avez appris à écrire un algorithme pour résoudre 
+un problème en suivant une série d'étapes à travers le résultat que vous recherchez.
+Comme tracer le résultat ligne par ligne et essayer de trouver la relation.
+
+Et en c, vous avez résolu quelques défis, comme le défi du triangle
+ et déterminer si la variable est un nombre premier ou non.
+et utiliser pour .
+
+3) Les algorithmes nous aideront dans notre vie à suivre un ensemble 
+d'étapes pour accomplir une tâche particulière ou résoudre un problème.

@@ -1,0 +1,11 @@
+Declaration des variable : c,x :entier
+
+Debut 
+   Ecrire("entrer un nomber :")
+   lire(x)
+        
+        pour c=1 A c=10 pas +1
+
+            Ecrire (x,"*",C,"=",x*c)
+        fin pour
+    fin

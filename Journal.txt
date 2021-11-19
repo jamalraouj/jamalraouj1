@@ -72,3 +72,19 @@ et utiliser pour .
 
 3) Les algorithmes nous aideront dans notre vie à suivre un ensemble 
 d'étapes pour accomplir une tâche particulière ou résoudre un problème.
+
+________19/11_________
+
+
+1) Aujourd'hui, nous avons discuté de la résolution de certains défis, du code en direct et de l'algorithme de tri rapide.
+
+2) J'ai appris que dans les algorithmes, il existe plusieurs méthodes de tri, telles que le tri rapide, qui utilise une bonne méthode 
+de tri des données et qui est également rapide.
+ 
+le tri rapide est utilisé pour organiser des données, telles que l'organisation de nombres, ou d'autres données telles que des photos, des vidéos, des fichiers...
+
+
+
+
+
+

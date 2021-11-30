@@ -86,5 +86,20 @@ le tri rapide est utilisé pour organiser des données, telles que l'organisatio
 
 
 
+_________________________________après SAS___________
+
+__________11/30_______
+
+1) Aujourd'hui, de nouveaux groupes se créent et nous savons comment se déroule l'apprentissage 
+en cette saison scolaire.
+Ensuite, nous avons commencé à chercher une série de questions.
+C'est quoi internet et quelle est la différence entre internet et le web 
+et que sont les paquets et la page web, un serveur web, un navigateur web et un moteur de recherche.
+
+2) Internet est la ligne téléphonique par laquelle les données sont transmises
+   HTTP Moyens HyperText Transfer Protocol Nous l'utilisons pour transférer des données
+
+3) C'est un bon début pour se lancer dans la programmation web
+
 
 

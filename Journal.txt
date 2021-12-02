@@ -101,5 +101,16 @@ et que sont les paquets et la page web, un serveur web, un navigateur web et un 
 
 3) C'est un bon début pour se lancer dans la programmation web
 
+__________01/12/21______02/12/21_________
+
+1) Ce jour-là, nous avons effectué une recherche sur la différence Web et Internet et sur ce qui se passe
+  quand tu tapes une URL dans le navigateur ? et nous avons travaillé sur la présentation de cela.
+  et nous avons travaillé sur la road map des compétences et la fait concevoir.
+
+2) Aujourd'hui j'ai appris ce qu'est le web et internet :
+ WEB est C'est l'un des moyens d'échanger des informations sur Internet.
+ INTERNET est un grand nombre d'ordinateurs connectés les uns aux autres par un ensemble de fils.
+ HTML signifie (Hyper Text Markup Language).
+ HTML dom (Document Object Model) C'est une méthode pour lire le document html par navigateur.
 
 

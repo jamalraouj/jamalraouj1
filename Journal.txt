@@ -127,3 +127,10 @@ Finalement on as aborder le brief du Mobile first.
 Durant cette journée , j'ai appris pas male de choses premierement avoir un engagement total,plus l'iportance de la langue française 
 dans l'insertion professionnelle.
 sans oublier le role important qui joue le programme adapté au mobile.
+
+___________08/12/21______________________
+
+Ce jour-là, j'ai travaillé sur l'accessibilité et le first mobile en bref 3 et j'ai terminé uploading sur 
+github et également sur host netlify.
+l'accessibilité Il s'agit d'un ensemble d'étapes pour rendre un site Web accessible à tous les utilisateurs, quelle que soit leur capacité à l'utiliser.
+Parce que la plupart des personnes qui utilisent le Web utilisent des mobiles, et qu'il manque également un ensemble de codes par rapport à disktop
